@@ -7,7 +7,7 @@ Use `.wf.json` for workflow names and prefer underscores in file names.
 For example: `my_awesome_build.wf.json`.
 
 ## Workflow naming
-Use dashed names for workflow names. `Name": "my-awesome-build"`
+Use dashed names for workflow names. `"Name": "my-awesome-build"`
 
 ## Step naming
 Use dashed names for steps such as `create-build-disk`. Don't use camel
