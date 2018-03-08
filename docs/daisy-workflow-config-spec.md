@@ -155,7 +155,7 @@ Added fields:
 | Instance | string | The name of the instance to attach this disk to, either instance [partial URLs](#glossary-partialurl) or workflow-internal instance names are valid. |
 
 Example: the first is an example of attaching a disk referenced by its daisy 
-name to an instance also referenced by it's daisy name. This requires that 
+name to an instance also referenced by its daisy name. This requires that 
 both are created as part of the curent workflow. The second is an example of
 using partial URLs for both the disk as well as the instance.
 ```json
