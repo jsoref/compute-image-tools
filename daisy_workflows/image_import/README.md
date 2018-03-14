@@ -53,8 +53,8 @@ Variables:
 
 * **debian/translate_debian_8.wf.json**: translates a Debian 8 Jessie based virtual disk.
 * **debian/translate_debian_9.wf.json**: translates a Debian 9 Stretch based virtual disk.
-* **enterprise_linux//translate_centos_6.wf.json**: translates a CentOS 6 based virtual disk.
-* **enterprise_linux//translate_centos_7.wf.json**: translates a CentOS 7 based virtual disk.
+* **enterprise_linux/translate_centos_6.wf.json**: translates a CentOS 6 based virtual disk.
+* **enterprise_linux/translate_centos_7.wf.json**: translates a CentOS 7 based virtual disk.
 * **enterprise_linux/translate_rhel_6_byol.wf.json**: translates a Red Hat Enterprise Linux 6 based virtual disk using your own Red Hat license.
 * **enterprise_linux/translate_rhel_6_licensed.wf.json**: translates a Red Hat Enterprise Linux 6 based virtual disk and converts it to use a GCE based Red Hat cloud license. If you use the resulting image you will be charged for the license.
 * **enterprise_linux/translate_rhel_7_byol.wf.json**: translates a Red Hat Enterprise Linux 7 based virtual disk using your own Red Hat license.
